@@ -1,7 +1,7 @@
 # Presentacion
 **Nombre:**  Marisol Vargas 
 
-![Image](https://github.com/user-attachments/assets/4eef2e1c-6d7d-45b4-83c3-dc23c937a8f8)
+<img src="https://github.com/user-attachments/assets/4eef2e1c-6d7d-45b4-83c3-dc23c937a8f8" alt="Foto" width="400" height="500">
 
 
 **Legajo:** 109493-2
